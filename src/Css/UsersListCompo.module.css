@@ -1,0 +1,30 @@
+.table {
+    width: 75vw;
+    margin:auto;
+    height: 70vh;
+    border-collapse:collapse;
+    table-layout:fixed;
+}
+
+
+.table tbody {
+    font-weight: 100;
+}
+.table tr {
+    border-bottom: 1px solid rgb(44, 91, 153);
+    text-align: left;
+    height: 50%;
+}
+.table td {
+    padding: 4px 4px 4px 4px;
+}
+.table th{
+    font-weight: bolder;
+    font-size: 1.1em;
+    padding: 4px 0 4px 4px;
+}
+
+
+
+
+

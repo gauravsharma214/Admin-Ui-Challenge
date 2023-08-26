@@ -1,0 +1,39 @@
+
+    
+  .selected {
+    background: hsl(0, 0%, 90%);
+    margin: 6px;
+    padding: 8px;
+  }
+
+  .readOnly {
+    border:0vmin;
+    margin: 6px;
+    padding: 8px;
+  }
+
+  
+  .selected input {
+    background: hsl(0, 0%, 90%);
+    margin: 6px;
+    padding: 8px;
+  }
+
+  .icons * {
+    padding: 10px;
+    cursor: pointer;
+    margin: 6px;
+    padding: 8px;
+  }
+  .icons {
+    color: rgb(250, 100, 0);
+    margin: 6px;
+    padding: 8px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100%;
+    
+  }
+  
